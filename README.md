@@ -7,6 +7,6 @@ Source: https://www.kaggle.com/datasets/ankushpanday1/lung-cancer-risk-and-trend
 Number of samples:3.3MB
 
 Preprocessing steps:
-Handling missing values
-Encoding categorical variables
-Normalization or standardization
+1.Handling missing values
+2.Encoding categorical variables
+3.Normalization or standardization
